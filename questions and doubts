@@ -1,0 +1,11 @@
+Common Python pandas questions 
+
+* why __name__ =__main__
+* How to apply a function to column in pandas 
+* how to use astype in pandas 
+* how to convert bool to int directly with / eithout considering nulls 
+
+links 
+* https://www.python-graph-gallery.com/25-histogram-with-several-variables-seaborn
+
+
