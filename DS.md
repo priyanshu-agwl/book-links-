@@ -27,4 +27,3 @@
 * Grit
 * Focus 
 * Hooked 
-* https://www.python-graph-gallery.com/25-histogram-with-several-variables-seaborn
