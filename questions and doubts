@@ -4,8 +4,17 @@ Common Python pandas questions
 * How to apply a function to column in pandas 
 * how to use astype in pandas 
 * how to convert bool to int directly with / eithout considering nulls 
+us df.replace({'v1':'replaceval'},inplace=True)
+this considers null 
+
+
+* How to iterate over rows in Dataframe 
+for index, row in df.iterrows():
+    print(row['c1'], row['c2'])
+    
 
 links 
 * https://www.python-graph-gallery.com/25-histogram-with-several-variables-seaborn
 
 
+can random forest handle nulls 
